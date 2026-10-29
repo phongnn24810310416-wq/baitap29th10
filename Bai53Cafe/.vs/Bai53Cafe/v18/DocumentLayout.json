@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anhva\\Downloads\\WinForms_BaiTap_5_3_5_4_5_5\\WinForms_BaiTap_5_3_5_4_5_5\\Bai53Cafe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9331E2D-6B83-4908-AA75-B34FA4696697}|Bai53Cafe.csproj|c:\\users\\anhva\\downloads\\winforms_baitap_5_3_5_4_5_5\\winforms_baitap_5_3_5_4_5_5\\bai53cafe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9331E2D-6B83-4908-AA75-B34FA4696697}|Bai53Cafe.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anhva\\Downloads\\WinForms_BaiTap_5_3_5_4_5_5\\WinForms_BaiTap_5_3_5_4_5_5\\Bai53Cafe\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\anhva\\Downloads\\WinForms_BaiTap_5_3_5_4_5_5\\WinForms_BaiTap_5_3_5_4_5_5\\Bai53Cafe\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T07:46:50.275Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

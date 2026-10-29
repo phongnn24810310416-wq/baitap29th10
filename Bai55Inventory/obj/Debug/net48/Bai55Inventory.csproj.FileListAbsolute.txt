@@ -1,0 +1,10 @@
+C:\Users\anhva\Downloads\WinForms_BaiTap_5_3_5_4_5_5\WinForms_BaiTap_5_3_5_4_5_5\Bai55Inventory\bin\Debug\net48\Bai55Inventory.exe.config
+C:\Users\anhva\Downloads\WinForms_BaiTap_5_3_5_4_5_5\WinForms_BaiTap_5_3_5_4_5_5\Bai55Inventory\bin\Debug\net48\Bai55Inventory.exe
+C:\Users\anhva\Downloads\WinForms_BaiTap_5_3_5_4_5_5\WinForms_BaiTap_5_3_5_4_5_5\Bai55Inventory\bin\Debug\net48\Bai55Inventory.pdb
+C:\Users\anhva\Downloads\WinForms_BaiTap_5_3_5_4_5_5\WinForms_BaiTap_5_3_5_4_5_5\Bai55Inventory\obj\Debug\net48\Bai55Inventory.csproj.AssemblyReference.cache
+C:\Users\anhva\Downloads\WinForms_BaiTap_5_3_5_4_5_5\WinForms_BaiTap_5_3_5_4_5_5\Bai55Inventory\obj\Debug\net48\Bai55Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anhva\Downloads\WinForms_BaiTap_5_3_5_4_5_5\WinForms_BaiTap_5_3_5_4_5_5\Bai55Inventory\obj\Debug\net48\Bai55Inventory.AssemblyInfoInputs.cache
+C:\Users\anhva\Downloads\WinForms_BaiTap_5_3_5_4_5_5\WinForms_BaiTap_5_3_5_4_5_5\Bai55Inventory\obj\Debug\net48\Bai55Inventory.AssemblyInfo.cs
+C:\Users\anhva\Downloads\WinForms_BaiTap_5_3_5_4_5_5\WinForms_BaiTap_5_3_5_4_5_5\Bai55Inventory\obj\Debug\net48\Bai55Inventory.csproj.CoreCompileInputs.cache
+C:\Users\anhva\Downloads\WinForms_BaiTap_5_3_5_4_5_5\WinForms_BaiTap_5_3_5_4_5_5\Bai55Inventory\obj\Debug\net48\Bai55Inventory.exe
+C:\Users\anhva\Downloads\WinForms_BaiTap_5_3_5_4_5_5\WinForms_BaiTap_5_3_5_4_5_5\Bai55Inventory\obj\Debug\net48\Bai55Inventory.pdb

@@ -1,0 +1,10 @@
+C:\Users\anhva\Downloads\WinForms_BaiTap_5_3_5_4_5_5\WinForms_BaiTap_5_3_5_4_5_5\Bai53Cafe\bin\Debug\net48\Bai53Cafe.exe.config
+C:\Users\anhva\Downloads\WinForms_BaiTap_5_3_5_4_5_5\WinForms_BaiTap_5_3_5_4_5_5\Bai53Cafe\bin\Debug\net48\Bai53Cafe.exe
+C:\Users\anhva\Downloads\WinForms_BaiTap_5_3_5_4_5_5\WinForms_BaiTap_5_3_5_4_5_5\Bai53Cafe\bin\Debug\net48\Bai53Cafe.pdb
+C:\Users\anhva\Downloads\WinForms_BaiTap_5_3_5_4_5_5\WinForms_BaiTap_5_3_5_4_5_5\Bai53Cafe\obj\Debug\net48\Bai53Cafe.csproj.AssemblyReference.cache
+C:\Users\anhva\Downloads\WinForms_BaiTap_5_3_5_4_5_5\WinForms_BaiTap_5_3_5_4_5_5\Bai53Cafe\obj\Debug\net48\Bai53Cafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anhva\Downloads\WinForms_BaiTap_5_3_5_4_5_5\WinForms_BaiTap_5_3_5_4_5_5\Bai53Cafe\obj\Debug\net48\Bai53Cafe.AssemblyInfoInputs.cache
+C:\Users\anhva\Downloads\WinForms_BaiTap_5_3_5_4_5_5\WinForms_BaiTap_5_3_5_4_5_5\Bai53Cafe\obj\Debug\net48\Bai53Cafe.AssemblyInfo.cs
+C:\Users\anhva\Downloads\WinForms_BaiTap_5_3_5_4_5_5\WinForms_BaiTap_5_3_5_4_5_5\Bai53Cafe\obj\Debug\net48\Bai53Cafe.csproj.CoreCompileInputs.cache
+C:\Users\anhva\Downloads\WinForms_BaiTap_5_3_5_4_5_5\WinForms_BaiTap_5_3_5_4_5_5\Bai53Cafe\obj\Debug\net48\Bai53Cafe.exe
+C:\Users\anhva\Downloads\WinForms_BaiTap_5_3_5_4_5_5\WinForms_BaiTap_5_3_5_4_5_5\Bai53Cafe\obj\Debug\net48\Bai53Cafe.pdb

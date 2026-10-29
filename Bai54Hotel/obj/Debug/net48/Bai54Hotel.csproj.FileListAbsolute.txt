@@ -1,0 +1,10 @@
+C:\Users\anhva\Downloads\WinForms_BaiTap_5_3_5_4_5_5\WinForms_BaiTap_5_3_5_4_5_5\Bai54Hotel\bin\Debug\net48\Bai54Hotel.exe.config
+C:\Users\anhva\Downloads\WinForms_BaiTap_5_3_5_4_5_5\WinForms_BaiTap_5_3_5_4_5_5\Bai54Hotel\bin\Debug\net48\Bai54Hotel.exe
+C:\Users\anhva\Downloads\WinForms_BaiTap_5_3_5_4_5_5\WinForms_BaiTap_5_3_5_4_5_5\Bai54Hotel\bin\Debug\net48\Bai54Hotel.pdb
+C:\Users\anhva\Downloads\WinForms_BaiTap_5_3_5_4_5_5\WinForms_BaiTap_5_3_5_4_5_5\Bai54Hotel\obj\Debug\net48\Bai54Hotel.csproj.AssemblyReference.cache
+C:\Users\anhva\Downloads\WinForms_BaiTap_5_3_5_4_5_5\WinForms_BaiTap_5_3_5_4_5_5\Bai54Hotel\obj\Debug\net48\Bai54Hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anhva\Downloads\WinForms_BaiTap_5_3_5_4_5_5\WinForms_BaiTap_5_3_5_4_5_5\Bai54Hotel\obj\Debug\net48\Bai54Hotel.AssemblyInfoInputs.cache
+C:\Users\anhva\Downloads\WinForms_BaiTap_5_3_5_4_5_5\WinForms_BaiTap_5_3_5_4_5_5\Bai54Hotel\obj\Debug\net48\Bai54Hotel.AssemblyInfo.cs
+C:\Users\anhva\Downloads\WinForms_BaiTap_5_3_5_4_5_5\WinForms_BaiTap_5_3_5_4_5_5\Bai54Hotel\obj\Debug\net48\Bai54Hotel.csproj.CoreCompileInputs.cache
+C:\Users\anhva\Downloads\WinForms_BaiTap_5_3_5_4_5_5\WinForms_BaiTap_5_3_5_4_5_5\Bai54Hotel\obj\Debug\net48\Bai54Hotel.exe
+C:\Users\anhva\Downloads\WinForms_BaiTap_5_3_5_4_5_5\WinForms_BaiTap_5_3_5_4_5_5\Bai54Hotel\obj\Debug\net48\Bai54Hotel.pdb
